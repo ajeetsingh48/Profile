@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![headshot](headshot.jpg)
+![headshot](Headshot.png)
 
 
 Hi! I'm Harini. I am an Assistant Professor of Computer Science at Brown University, where I am also affiliated with the Department of Science, Technology & Society (STS) and the [Center for Technological Responsibility, Reimagination, and Redesign (CNTR)](https://cntr.brown.edu/) at the Data Science Institute. My work explores how to create datasets and sociotechnical systems that are grassroots, participatory, accountable, and equitable. At Brown, I run the Data in Society Collective, or [DISCO Lab](https://discolab.cs.brown.edu/). Some of the lab’s recent research has explored questions including how to support capacity building and collective decision-making in participatory AI; what “ownership” over AI tools might mean for journalists given the fragmented supply chains of large language models; and how decentralized infrastructures can support community agency on social media platforms. Our approach is interdisciplinary and strongly shaped by research in the social sciences and humanities.
