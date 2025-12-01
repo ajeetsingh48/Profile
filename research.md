@@ -2,17 +2,43 @@
 layout: default
 ---
 
-### Conference & Journal Publications 
+### Select Presentations and Publications
 
-<span class='paper-title'>Participation in the age of foundation models.</span>\
-ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘24).\
-**Harini Suresh**&#10023;, Emily Tseng&#10023;, Meg Young&#10023;, Mary Gray, Emma Pierson, Karen Levy.\
-[[paper](https://dl.acm.org/doi/10.1145/3630106.3658992)]
+<span class='paper-title'>Invisible by Design? Generative AI and Mirrors of Misrepresentation.</span>\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘25). \
+Wenzel K, Ghosh A, Pendse S, **Singh A**, et al. \
 
-<span class='paper-title'>Saliency Cards: A Framework to Characterize and Compare Saliency Methods.</span>\
-Angie Boggust&#10023;, **Harini Suresh**&#10023;, Hendrik Strobelt, John Guttag, Arvind Satyanarayan.\
-ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). \
-[[paper](https://dl.acm.org/doi/abs/10.1145/3593013.3593997)]
+<span class='paper-title'> Governing Healthcare's AI Transformation: Leadership Insights from U.S. Health System Executives.</span>\
+**Singh A**, Rowe JM, Rhee K, et al. \
+Symposium on Artificial Intelligence for Learning Health Systems (May 2025) \
+
+<span class='paper-title'> Evaluation of Ambient Artificial Intelligence Scribe Technology in Ambulatory Care: A Pilot Study at a Large Urban Academic Medical Center. </span>\
+Canning C, Holmes M, Rhee K, **Singh A**, et al.\
+Symposium on Artificial Intelligence for Learning Health Systems. (May 2025) \
+
+<span class='paper-title'> Patient Preferences and Insights for Driving Transformations in Digital Strategy. </span>\
+Singh A, Rhee K, Zimmermann L, Cui M. \
+Society for General Internal Medicine. (May 2025) \
+
+<span class='paper-title'> Clinical Validation of a Machine Learning Model Prior to Implementation- Role, Impact, and Lessons Learned. </span>\
+Rhee K, **Singh A**, Chaudhari V, McClintic M, Chen E, Rojas JC. \
+American Medical Informatics Association Clinical Informatics Conference. (May 2025) \
+
+<span class='paper-title'> The I’s Have It: How We Use Implementation Research Methods to Design, Install, and Evaluate Informatics Innovations at Our Hospitals. </span>\
+Lyons P, Santhosh L, **Singh A**, Arnold E. \
+American Medical Informatics Association Annual Symposium. (Nov 2024) \
+
+<span class='paper-title'> The Digital Divide: Histories of Exclusions & Barriers Beyond Connectivity. </span>\
+**Singh A** \
+California Telehealth Resource Center, AI-Enabled Digital Health Series \
+
+<span class='paper-title'>   </span>\
+   \
+   \
+
+<span class='paper-title'>   </span>\
+   \
+   \
 
 <span class='paper-title'>Kaleidoscope: Semantically-grounded, context-specific ML model evaluation.</span>\
 CHI Conference on Human Factors in Computing Systems (CHI ’23).\
