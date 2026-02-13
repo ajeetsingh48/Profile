@@ -15,7 +15,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: "index"
  - name: "Selected Works"
    link: "research"
  - name: "CarePraxis"
