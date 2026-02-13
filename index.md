@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-![headshot](Headshot.png) 
+<img class="profile-picture" src="Headshot.png">
 
 I'm a hospitalist physician, public health practicioner, and informaticist dedicated to building technologies that increase our collective agency in addressing community needs and improving our health. Much of my current work has focused on interrogating the political economy of healthcare, as well as modeling technology governance practices from data ecosystems to frontiers of algorithmic systems to build a healthier society.
 
