@@ -14,11 +14,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "about"
+ - name: "About"
    link: "/"
- - name: "publications"
+ - name: "Selected Works"
    link: "research"
  - name: "CarePraxis"
    link: "projects"
- - name: "contact"
+ - name: "Contact"
    link: "contact"
